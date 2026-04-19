@@ -2,7 +2,12 @@
 ##資格  
 統計検定準一級（2024年 6月）
 TOIEC（2025年 3月）
-社会調査士（2026年 3月）
+社会調査士（2026年 3月）  
+##インターン経験  
+株式会社SiNCE（2026年 2月～現在）  
+主にBIツールやBigQuery、Googleスプレッドシートを活用したデータ可視化業務に携わっています。  
+特に最近では、BigQuery上でSQLを用いたデータ抽出・集計を行い、Looker Studioで可視化する業務を担当しています。可視化の目的や伝えたい内容を踏まえ、最終的なアウトプットを意識しながらデータを形成することを心がけています。
+
 <!--
 **ObanaTomonori/ObanaTomonori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
