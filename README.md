@@ -1,5 +1,8 @@
 ## Hi I`m Tomonori Obana 👋
-
+##資格
+統計検定準一級（2024年 6月）
+TOIEC（2025年 3月）
+社会調査士（2026年 3月）
 <!--
 **ObanaTomonori/ObanaTomonori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
