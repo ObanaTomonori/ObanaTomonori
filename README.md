@@ -18,7 +18,10 @@ TOIEC（2025年 3月）
 
 ##発表論文  
 「Combining Feature Space Refinement and Outcome Accumulation Type Evolutionary Rule Discovery」（2025年 7月発表）  
-URL : https://dl.acm.org/doi/10.1145/3712255.3726657
+URL : https://dl.acm.org/doi/10.1145/3712255.3726657  
+
+「連関的局所分布ルールマイニングを利用した回帰に対する特徴選択」（2026年 6月発表予定）  
+URL : https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/1Yin-B-61
 
 <!--
 **ObanaTomonori/ObanaTomonori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
